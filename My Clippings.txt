@@ -321,6 +321,7 @@ Por lo que sabemos, fueron los inventores originales del dinero como medio de in
 ﻿El Hombre Mas Rico De Babilonia (Spanish Edition) (Clason, George S.)
 - Your Highlight on page 4 | Location 88-89 | Added on Monday, May 20, 2024 3:06:14 PM
 
+El dinero es abundante para aquellos que entienden las simples leyes que rigen su adquisición
 El dinero hoy en día se rige por las mismas leyes que lo controlaban cuando los hombres prósperos vagaban por las calles de Babilonia hace seis mil años
 ==========
 ﻿El Hombre Mas Rico De Babilonia (Spanish Edition) (Clason, George S.)
@@ -526,7 +527,9 @@ Entonces, y sólo entonces, serás competente para enseñar estas verdades a los
 ﻿El Hombre Mas Rico De Babilonia (Spanish Edition) (Clason, George S.)
 - Your Highlight on page 18 | Location 343-344 | Added on Tuesday, May 21, 2024 2:14:17 PM
 
+Empieza a hacer crecer tu bolso
 Arkad se dirigió a un hombre sentado en la segunda fila: 
+—Mi buen
 ==========
 ﻿El Hombre Mas Rico De Babilonia (Spanish Edition) (Clason, George S.)
 - Your Highlight on page 19 | Location 360-360 | Added on Tuesday, May 21, 2024 2:17:15 PM
@@ -2267,4 +2270,474 @@ Practical Statistics for Data Scientists
 - Your Highlight on page 56-56 | Added on Friday, July 12, 2024 1:33:52 PM
 
 In stratifed sampling, the population is divided up into strata, and random samples are taken from each stratum. Political pollsters might seek to learn the electoral pref‐ erences of whites, blacks and hispanics. A simple random sample taken from the pop‐ ulation would yield too few blacks and hispanics, so those strata
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 57-57 | Added on Wednesday, July 17, 2024 8:30:41 PM
+
+whereas μis used to represent the mean of a population
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 57-57 | Added on Wednesday, July 17, 2024 8:30:45 PM
+
+Sample Mean Versus Population Mean The symbol xis used to represent the mean of a sample
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 57-57 | Added on Wednesday, July 17, 2024 8:30:48 PM
+
+Sample Mean Versus Population Mean The symbol xis used
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 57-57 | Added on Wednesday, July 17, 2024 8:30:53 PM
+
+The symbol xis used to represent the mean of a sample from a population
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 58-58 | Added on Wednesday, July 17, 2024 8:34:15 PM
+
+Selection bias To paraphrase Yogi Berra,
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 58-58 | Added on Wednesday, July 17, 2024 8:34:19 PM
+
+To paraphrase Yogi Berra, “If you don’t know what you’re looking for, look hard enough, and you’ll find it.”
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Wednesday, July 17, 2024 8:37:01 PM
+
+There is a saying among
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Wednesday, July 17, 2024 8:37:04 PM
+
+There is a saying among statisticians, “if you torture the data long enough, sooner or later it will confess.”
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Wednesday, July 17, 2024 8:37:24 PM
+
+The difference between a phenomenon that you verify when you test a hypothesis using an experiment, versus a phenomenon that you discover by perusing available data, can be illuminated with this thought experiment: Imagine that a person tells you she can flip a coin and have it land heads on the next 10 tosses. You challenge her (the equivalent of an experiment), and she proceeds to toss it 10 times, all landing heads. Clearly you ascribe some special talent to her - the probabilty that 10 coin tosses will land heads just by chance is 1 in 1000.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 63-63 | Added on Wednesday, July 17, 2024 8:49:26 PM
+
+It is important to distinguish between the distribution of the indi‐ vidual data points - the data distribution, and
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 63-63 | Added on Wednesday, July 17, 2024 8:49:33 PM
+
+It is important to distinguish between the distribution of the indi‐ vidual data points - the data distribution, and the distribution of a sample statistic - the sampling distribution
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 65-65 | Added on Wednesday, July 17, 2024 8:52:26 PM
+
+This phenomenon is termed the Central Limit Teorem. It says that the means drawn from multiple samples will be shaped like the familiar bell-shaped normal curve
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 65-65 | Added on Wednesday, July 17, 2024 8:52:45 PM
+
+Central Limit Theorem This phenomenon is termed the Central Limit Teorem. It says that the means drawn from multiple samples will be shaped like the familiar bell-shaped normal curve (see “Normal distribution” on page 74), even if the source population is not normallydistributed, provided that the sample size is large enough and the departure of the data from normality is not too great
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 65-65 | Added on Wednesday, July 17, 2024 8:55:13 PM
+
+The standard error is a single metric that sums up the variability in the sampling dis‐ tribution for a statistic
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 65-65 | Added on Wednesday, July 17, 2024 8:56:16 PM
+
+The relationship between standard error and sample size is sometimes referred to as the square-root of n rule: in order to reduce the standard error by a factor of 2, the sample size must be increased by a factor of 4.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 66-66 | Added on Wednesday, July 17, 2024 8:59:05 PM
+
+Collect a number of brand new samples from the population. 2. For each new sample, calculate the statistic (e.g., mean). 3. Estimate the standard error by the standard deviation of the statistics computed in step 2.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 66-66 | Added on Wednesday, July 17, 2024 8:59:15 PM
+
+. Collect a number of brand new samples from the population. 2. For each new sample, calculate the statistic (e.g., mean). 3. Estimate the
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 66-66 | Added on Wednesday, July 17, 2024 8:59:19 PM
+
+1. Collect a number of brand new samples from the population. 2. For each new sample, calculate the statistic (e.g., mean). 3. Estimate the standard error by the standard deviation of the statistics computed in step 2.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 66-66 | Added on Wednesday, July 17, 2024 8:59:28 PM
+
+In modern statistics, the bootstrap has become the standard way to to estimate standard error.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 66-66 | Added on Wednesday, July 17, 2024 8:59:43 PM
+
+In modern statistics, the bootstrap has become the standard way to to estimate standard error. It can be used for virtually any statistic and does not rely on the central limit theorem or other distributional assumptions.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Monday, July 29, 2024 8:32:24 AM
+
+We can guard against this by using a holdout set, and sometimes more than one hold‐ out set, against which to validate performance. Elder also advocates the use of what he calls “target shuffling” (a permutation test, in essence) to test the validity of predic‐ tive associations that a data mining model suggests.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Monday, July 29, 2024 8:32:44 AM
+
+If you repeatedly run different models and ask different questions with a large data set, you are bound to find some‐ thing interesting. Is
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Monday, July 29, 2024 8:32:49 AM
+
+If you repeatedly run different models and ask different questions with a large data set, you are bound to find some‐ thing interesting. Is the result you found truly something interesting, or is it the chance outlier? We can guard against this by using a holdout set, and sometimes more than one hold‐ out set, against which to validate performance. Elder also advocates the use of what he calls “target shuffling” (a permutation test, in essence
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 59-59 | Added on Monday, July 29, 2024 8:32:54 AM
+
+” If you repeatedly run different models and ask different questions with a large data set, you are bound to find some‐ thing interesting. Is the result you found truly something interesting, or is it the chance outlier? We can guard against this by using a holdout set, and sometimes more than one hold‐ out set, against which to validate performance. Elder also advocates the use of what he calls “target shuffling” (a permutation test, in essence) to test the validity of predic‐ tive associations that a data mining model suggests.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 60-60 | Added on Monday, July 29, 2024 8:35:39 AM
+
+Regression to the mean Regression to the mean refers to a phenomenon involving successive measurements on a given variable: extreme observations tend to be followed be more central ones. Attaching special focus and meaning to the extreme value can lead to a form of selec‐ tion bias.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 67-67 | Added on Monday, July 29, 2024 8:39:41 AM
+
+One easy and effective way to estimate the sampling distribution of a statistic, or of model parameters, is to draw additional samples, with replacement, from the sample itself, and recalculate the statistic or model for each resample. This procedure is called the bootstrap, and it does not necessarily involve any assumptions about the data, or the sample statistic, being normally-distributed.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 68-68 | Added on Monday, July 29, 2024 9:03:22 AM
+
+The bootstrap can be used with multivariate data, where the rows are sampled as units (see Figure 2-8). A model might then be run on the bootstrapped data, for example, to estimate the stability (variability) of model parameters, or to improve predictive power
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 69-69 | Added on Monday, July 29, 2024 9:07:35 AM
+
+The technique gained its name and took off with the publication of several journal articles and a book by Stanford statistician Bradley Efron in the late 1970’s and early 1980’s. It was particularly popular among researchers who use statistics but are not statisticians, and for use with metrics or models where mathematical approximations are not readily available
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 69-69 | Added on Monday, July 29, 2024 9:09:07 AM
+
+The sampling distribution of the mean has been well established since 1908; the sampling distribu‐ tion of many other metrics has not. The bootstrap can be used for sample size deter‐ mination - experiment with different values for N to see how the sampling distribution is affected.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:09:59 AM
+
+new data, nor does it fill in holes in an existing dataset. It merely informs us about lots of additional samples would
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:10:02 AM
+
+new data, nor does it fill in holes in an existing dataset. It merely informs us about lots of additional samples would
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:10:27 AM
+
+The bootstrap does not compensate for a small sample size - it does not create new data, nor does it fill in holes in an existing dataset. It merely informs us about lots of additional samples would be have, when drawn from a population like our original sample.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:10:54 AM
+
+In any case, the term bootstrap always implies sampling with replacement from an observed dataset.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:11:52 AM
+
+The bootstrap (sampling with replacement from a dataset), is a powerful tool for assessing the variability of a sample statistic. 2. The bootstrap can be applied in similar fashion in a wide variety of circumstan‐ ces, without extensive study of mathematical approximations to sampling distri‐ butions. 3. It also allows us to estimate sampling distributions for statistics where no mathe‐ matical approximation has been developed. 4. When applied to predictive models
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:11:59 AM
+
+. The bootstrap (sampling with replacement from a dataset), is a powerful tool for assessing the variability of a sample statistic. 2. The bootstrap can be applied in similar fashion in a wide variety of circumstan‐ ces, without extensive study of mathematical approximations to sampling distri‐ butions. 3. It also allows us to estimate sampling distributions for statistics where no mathe‐ matical approximation has been developed. 4. When applied to predictive models, aggregating multiple
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 70-70 | Added on Monday, July 29, 2024 9:12:06 AM
+
+. The bootstrap (sampling with replacement from a dataset), is a powerful tool for assessing the variability of a sample statistic. 2. The bootstrap can be applied in similar fashion in a wide variety of circumstan‐ ces, without extensive study of mathematical approximations to sampling distri‐ butions. 3. It also allows us to estimate sampling distributions for statistics where no mathe‐ matical approximation has been developed. 4. When applied to predictive models, aggregating multiple bootstrap sample pre‐ dictions (bagging) outperforms the use of a single model
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 71-71 | Added on Tuesday, July 30, 2024 8:21:21 AM
+
+There is a natural human aversion to uncertainty - people (especially experts) say “I don’t know” far too rarely. Analysts and managers, while acknowledging uncertainty, nonetheless place undue faith in an estimate when presented as a single number (a point estimate). Presenting an estimate not as a single number but as a range is one way to counteract this tendency. Confidence intervals do this in a manner grounded in statistical sampling principles
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 71-71 | Added on Tuesday, July 30, 2024 8:23:14 AM
+
+Confidence intervals always come with a coverage level, expressed as a (high) per‐ centage, say 90% or 95%. One way to think of a 90% confidence interval is as follows: it is the interval that encloses the central 90% of the bootstrap sampling distribution of a sample statistic (see “The bootstrap” on page 67). More generally, an x% confi‐ dence interval around a sample estimate should, on average, contain similar sample estimates x% of the time (when a similar sampling procedure is followed)
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 71-71 | Added on Tuesday, July 30, 2024 8:24:08 AM
+
+One way to think of a 90% confidence interval is as follows: it is the interval that encloses the central 90% of the bootstrap sampling distribution of a sample statistic
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 71-71 | Added on Tuesday, July 30, 2024 8:27:11 AM
+
+Draw a random sample of size n with replacement from the data (a resample) 2. Record the statistic of interest for the resample 3. Repeat steps 1-2 many times, call it B times 4. For an x% confidence interval, trim [(1-x)/2]% of the B resample results from either end of the distribution. 5. The trim points are the endpoints of an x% bootstrap confidence interval
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 71-71 | Added on Tuesday, July 30, 2024 8:27:47 AM
+
+Given a sample of size n, and a sample statistic of interest, the algorithm for a boot‐ strap confidence interval is as follows: 1. Draw a random sample of size n with replacement from the data (a resample) 2. Record the statistic of interest for the resample 3. Repeat steps 1-2 many times, call it B times 4. For an x% confidence interval, trim [(1-x)/2]% of the B resample results from either end of the distribution. 5. The trim points are the endpoints of an x% bootstrap confidence interval
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 72-72 | Added on Tuesday, July 30, 2024 8:29:15 AM
+
+The bootstrap is a general tool that can be used to generate confidence intervals for most statistics, or model parameters. Statistical textbooks and software, with roots in over a half-century of computer-less statistical analysis
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 72-72 | Added on Tuesday, July 30, 2024 8:31:05 AM
+
+Of course, what we are really interested in when we have a sample result is “what is the probability that the true value lies within a cer‐ tain interval?” This is not really the question that a confidence interval answers, but it ends up being how most people interpret the answer. The probability question associated with a confidence interval starts out with the phrase “Given a sampling procedure and a pop‐ ulation, what is the probability that…” To go in the opposite direc‐ tion, “Given a sample result, what is the probability that (something is true about the population),” involves more complex calculations and deeper imponderables
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 72-72 | Added on Tuesday, July 30, 2024 8:37:24 AM
+
+The percentage associated with the confidence interval is termed the level of conf‐ dence. The higher the level of confidence, the wider the interval. Also, the smaller the sample, the wider the interval (i.e. the more uncertainty). Both make sense: the more confident you want to be, and the less data you have, the wider you must make the confidence interval to be sufficiently assured of capturing the true value.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 73-73 | Added on Tuesday, July 30, 2024 8:37:59 AM
+
+Key Ideas 1. Confidence intervals are the typical way to present estimates as an interval range. 2. The more data you have, the less variable it is, and the lower the level of confi‐ dence you can tolerate, the narrower the confidence interval. 3. The bootstrap is an effective way to construct confidence intervals
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 76-76 | Added on Tuesday, July 30, 2024 9:01:30 AM
+
+standard normal distribution is one in which the units on the x-axis are expressed in terms of standard deviations away from the mean. To compare data to a standard normal distribution you subtract the mean then divide by the standard deviation; this is also called normalization or standardization
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 76-76 | Added on Tuesday, July 30, 2024 9:01:34 AM
+
+A standard normal distribution is one in which the units on the x-axis are expressed in terms of standard deviations away from the mean. To compare data to a standard normal distribution you subtract the mean then divide by the standard deviation; this is also called normalization or standardization
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 76-76 | Added on Tuesday, July 30, 2024 9:01:57 AM
+
+Note that “standardization” in this sense is unrelated to database record standardization (conversion to a common for‐ mat). The transformed value is termed a z-score, and the normal distribution is sometimes called the z-distribution.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 77-77 | Added on Tuesday, July 30, 2024 9:04:53 AM
+
+Converting data to z-scores (i.e. standardizing or normalizing the data) does not make the data normally distributed. It just puts the data on the same scale as the standard normal distribution, often for comparison purposes.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 77-77 | Added on Tuesday, July 30, 2024 9:05:28 AM
+
+The normal distribution was essential to the historical development of statistics as it permitted mathematical approximation of uncertainty and variability. 2. While raw data are typically not normally-distributed, errors often are. 3. Data are often converted to z-scores by subtracting the mean of the data, and dividing by the standard
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 77-77 | Added on Tuesday, July 30, 2024 9:05:34 AM
+
+1. The normal distribution was essential to the historical development of statistics as it permitted mathematical approximation of uncertainty and variability. 2. While raw data are typically not normally-distributed, errors often are. 3. Data are often converted to z-scores by subtracting the mean of the data, and dividing by the standard deviation; the data can then be compared to a normal distribution.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 78-78 | Added on Tuesday, July 30, 2024 12:32:58 PM
+
+While the normal distribution is often appropriate and useful with respect to the dis‐ tribution of errors and sample statistics, it typically does not characterize the distribu‐ tion of raw data. Sometimes, the distribution is highly skewed (asymmetric), such as with income data, or the distribution can be discrete, as with binomial data. Both symmetric and asymmetric distributions may have long tail(s). The tails of a distribu‐ tion correspond to the extreme values (small and large)
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 79-79 | Added on Tuesday, July 30, 2024 1:50:00 PM
+
+This means that we are much more likely to observe extreme values than would be expected if the data had a normal distribution.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 79-79 | Added on Tuesday, July 30, 2024 1:50:40 PM
+
+Figure 2-12 shows another common phenomena: the points are close to the line for the data within one standard deviation of the mean. Tukey calls this phenomena as data being “normal in the middle”, but having much longer tails (see ???).
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 79-79 | Added on Tuesday, July 30, 2024 1:53:35 PM
+
+There is much statistical literature about the task of fitting statisti‐ cal distributions to observed data. Beware an excessively datacentric approach to this job, which is as much art as science. Data are variable, and often consistent, on their face, with more than one shape and type of distribution. It is typically the case that domain and statistical knowledge must be brought to bear to determine what type of distribution is appropriate to model a given situation. For example, we might have data on the level of internet traffic on a server over many consecutive 5-second periods. It is useful to know that the best distribution to model “events per time period” is the Poisson (see “Poisson Distributions” on page 85).
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 79-79 | Added on Tuesday, July 30, 2024 1:54:13 PM
+
+Distribution 1. Most data are not normally distributed 2. Assuming a normal distribution can lead to underestimation of extreme events (“black swans”) Further Reading 1. Te Black Swan by Nassim Taleb (2010, 2nd ed., Random House) 2. Handbook of Statistical Distributions with Applications, by K. Krishnamoorthy (2016, 2nd ed., CRC Press) Student’s t distribution The t-distribution is a normally-shaped distribution, but a bit thicker and longer on the tails. It is used extensively in depicting distributions of sample statistics. Distribu‐ tions of sample means are typically shaped like a t-distribution, and there is a family Student’s t distribution | 79
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 79-79 | Added on Wednesday, July 31, 2024 8:21:19 AM
+
+The t-distribution is a normally-shaped distribution, but a bit thicker and longer on the tails. It is used extensively in depicting distributions of sample statistics
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 80-80 | Added on Wednesday, July 31, 2024 8:23:35 AM
+
+The t-distribution is often called Student’s t because it was published in 1908 in Bio‐ metrika by W. S. Gossett under the name “Student.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 80-80 | Added on Wednesday, July 31, 2024 8:27:44 AM
+
+Gossett wanted to answer the question “what is the sampling distribution of the mean of a sample, drawn from a larger population.” He started out with a resampling experiment - drawing random samples of four from a dataset of 3000 measurements of criminals’ height and left middle finger lengths. (This being the era of eugenics, there was much interest in data on criminals, and in discovering correlations between criminal tendencies and physical or psychological attributes.) He plotted the standar‐ dized results (the z-scores) on the x-axis, and the frequency on the y-axis. Separately, he had derived a function - now known as Student’s t, and he fit this function over the sample results, plotting the comparison (see Figure 2-13).
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:30:50 AM
+
+Consider a sample of size n for which the sample mean, x-bar, has been calculated
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:32:21 AM
+
+The t-distribution has been used as a reference for the distribution of a sample mean, of the difference between two sample means, of regression parameters, and more. Had computing power been widely available in 1908, statistics would no doubt have
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:33:28 AM
+
+of the difference between two sample means, of regression parameters, and more. Had computing power been widely available in 1908, statistics would no doubt have relied much more heavily on computationally intensive resampling methods from the start.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:34:23 AM
+
+Lacking computers, statisticians turned to mathematics, and functions such as the t-distribution, to approximate sampling distributions. Computer power enabled practical resampling experiments in the 1980’s but, by then, use of the t-distribution and similar distributions had become deeply embedded in textbooks and software.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:35:01 AM
+
+and similar distributions had become deeply embedded in textbooks and software. The t-distribution’s accuracy in depicting the behavior of a sample statistic requires that the distribution of that statistic for that sample be shaped like a normal distribu‐ tion. It turns out that sample statistics are often normally distributed, even when the underlying population data are not (a fact which led to widespread application of the t-distribution). This phenomenon
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:35:11 AM
+
+The t-distribution’s accuracy in depicting the behavior of a sample statistic requires that the distribution of that statistic for that sample be shaped like a normal distribu‐ tion. It turns out that sample statistics are often normally distributed, even when the underlying population data are not (a fact which led to widespread application of the t-distribution). This phenomenon is termed the Central Limit Teorem (see ???)
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 81-81 | Added on Wednesday, July 31, 2024 8:38:18 AM
+
+What do data scientists need to know about the t-distribution, and the central limit theorem? Not a whole lot. These distributions are used in classical statistical inference, but are not as central to the purposes of data science. Understanding and quantifying uncer‐ tainty and variation are important to data scientists, but empirical bootstrap sampling can answer most questions about sampling error. However, data scientists will routinely encounter t-statistics in output from statistical software and statistical procedures in R, e.g. in A-B tests and regressions, so familiarity with its purpose is helpful.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 82-82 | Added on Wednesday, July 31, 2024 8:40:29 AM
+
+no (binomial) outcomes lie at the heart of analytics since they are often the cul‐ mination of a decision or other process - buy/don’t buy, click/don’t click, survive/die, etc. Central to understanding the binomial distribution is the idea of a set of trials, each trial having two possible outcomes with definite probabilities.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 82-82 | Added on Wednesday, July 31, 2024 8:40:36 AM
+
+/no (binomial) outcomes lie at the heart of analytics since they are often the cul‐ mination of a decision or other process - buy/don’t buy, click/don’t click, survive/die, etc. Central to understanding the binomial
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 82-82 | Added on Wednesday, July 31, 2024 8:40:48 AM
+
+Yes/no (binomial) outcomes lie at the heart of analytics since they are often the cul‐ mination of a decision or other process - buy/don’t buy, click/don’t click, survive/die, etc. Central to understanding the binomial distribution is the idea of a set of trials, each trial having two possible outcomes with definite probabilities.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 83-83 | Added on Wednesday, July 31, 2024 8:54:41 AM
+
+For example, flipping a coin ten times is a binomial experiment with ten trials, each trial having two possible outcomes (heads or tails). Such yes/no or 0/1 outcomes are termed binary outcomes, and they need not have 50/50 probabilities. Any probabili‐ ties that sum to 1.0 are possible. It is conventional in statistics to term the “1” out‐ come the success outcome; it is also common practice to assign “1” to the more rare outcome. Use of the term “success” does not imply that the outcome is desirable or beneficial; it does tend to indicate the outcome of interest. For example, a loan default or a fraudulent transaction are relatively uncommon events that we may be interested in predicting, so are termed “1’s” or “successes.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 83-83 | Added on Wednesday, July 31, 2024 8:59:30 AM
+
+“If the probability of a click converting to a sale is 0.02, what is the probability of observing 0 sales in 200 clicks?” The R code to calculate binomial probabilities is > dbinom(x, n, p) For example, > dbinom(2, 5, 0.1) would return 0.0729, the probability of observing exactly 2 successes in 5 trials, where the probability of success for each trial is 0.1. Often we are interested in determining the probability of x or fewer successes in n trials, the code for that is > pbinom(x, n, p
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Wednesday, July 31, 2024 9:02:05 AM
+
+model the distribution of the time between events: time between visits to a web site or between cars arriving at a toll plaza. It is also used in engineering to model time to failure, and in process management to model, for example, the time required per ser‐ vice call. The R code to generate random numbers from an exponential distribution takes two arguments
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 10:56:09 AM
+
+Poisson and Related Distributions Many processes produce events randomly at a given overall rate - visitors arriving at a web site, cars arriving at a toll plaza (events spread over time), imperfections in a square meter of fabric, or typos per 100 lines of code (events spread over space).
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 10:58:48 AM
+
+From prior data we can estimate the average number of events per unit of time or space, but we might also want to know how different this might be from one unit of time/space to another. The Poisson distribution tells us the distribution of events per unit of time or space, when we sample many such units. It is useful when addressing queuing questions like “how much capacity do we need to be 95% sure of fully pro‐ cessing the internet traffic that arrives on a server in any 5 second period.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 11:01:19 AM
+
+want to know how different this might be from one unit of time/space to another. The Poisson distribution tells us the distribution of events per unit of time or space, when we sample many such
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 11:01:23 AM
+
+The Poisson distribution tells us the distribution of events per unit of time or space, when we sample many such units. It is useful when addressing queuing questions like “how much capacity do we need to be 95% sure of fully pro‐ cessing the internet traffic that arrives on a server in any 5 second period.”
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 11:01:31 AM
+
+The Poisson distribution tells us the distribution of events per unit of time or space, when we sample many such units. It is useful when addressing queuing questions like “how much capacity do we need to be 95% sure of fully pro‐ cessing the internet traffic that arrives on a server in any 5 second period.” The key parameter in a Poisson distribution is λ, or lambda
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 11:01:47 AM
+
+The key parameter in a Poisson distribution is λ, or lambda. This is the mean number of events that occurs in a specified interval of time or space. The variance for a Pois‐ son distribution is also λ.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 85-85 | Added on Thursday, August 1, 2024 11:03:38 AM
+
+common technique is to generate random numbers from a Poisson distribution as part of a queuing simulation. The rpois function in R does this, taking only two argu‐ ments - the quantity of random numbers sought, and lambda:
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:04:16 AM
+
+This code will generate 100 random numbers from a Poisson distribution with λ= 2. For example, if incoming customer service calls average two per minute, this code will simulate 100 minutes, returning the number of calls in each of those 100 minutes. Exponential distribution Using the same parameter λthat we used in the Poisson distribution, we can also model the distribution of the time between events: time between visits to a web site or between cars arriving at a toll plaza. It is also used in engineering to model time to failure, and in process management to model, for example, the time required per ser‐ vice call. The R code to generate random numbers from an exponential distribution takes two arguments, n (the quantity of numbers to be generated), and rate, the num‐ ber of events per time period. For example: rexp(n = 100, rate = .2) This code would generate 100 random numbers from an exponential distribution where the mean number of events per time period is 2. So you could use it to simulate 100 intervals, in minutes, between service calls, where the average rate of incoming calls is 0.2 per minute. A key assumption in any simulation study for either the Poisson or exponential distri‐ bution is that the rate, λ, remains constant over the period being considered. This is rarely reasonable in a global sense; for example, traffic on roads or data networks varies by time of day, and day of week. However, the time periods, or areas of space, can usually be divided into segments that are sufficiently homogeneous so that analy‐ sis or simulation within those periods is valid. Inference In many applications, the event rate, λ, is known or can be estimated from prior data. However, for rare events, this is not necessarily so. Aircraft engine failure, for exam‐ ple, is sufficiently rare (thankfully) that, for a given engine type, there may be little data on which to base an estimate of time between failures. With no data at all, there is little basis on which to estimate an event rate. However, you can make some guess - if no events have been seen after 20 hours, you can be pretty sure that the rate is not 1 per hour. Via simulation, or direct calculation of probabilities, you can assess differ‐ ent hypothetical event rates and estimate threshold values below which the rate is very unlikely to fall. If there is some data but not enough to provide a precise, reliable estimate of the rate, a goodness-of-fit test (see ???) can be applied to various rates to determine how well they fit the observed data. 86 | Chapter 2: Data and Sampling Distributions
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:04:28 AM
+
+This code will generate 100 random numbers from a Poisson distribution with λ= 2. For example, if incoming customer service calls average two per minute, this code will simulate 100 minutes, returning the number
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:06:33 AM
+
+The R code to generate random numbers from an exponential distribution takes two arguments, n (the quantity of numbers to be generated), and rate, the num‐ ber of events per time period. For example:
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:08:20 AM
+
+rexp(n = 100, rate = .2) This code would generate 100 random numbers from an exponential distribution where the mean number of events per time period is 2. So you could use it to simulate 100 intervals, in minutes, between service calls, where the average rate of incoming calls is 0.2 per minute.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:08:35 AM
+
+This code would generate 100 random numbers from an exponential distribution where the mean number of events per time period is 2. So you could use it to simulate 100 intervals, in minutes, between service calls, where the average rate of incoming calls is 0.2 per minute.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:09:57 AM
+
+key assumption in any simulation study for either the Poisson or exponential distri‐ bution is that the rate, λ, remains constant over the period being considered. This is rarely reasonable in a global sense; for example, traffic on roads or data networks varies by time of day, and day of week. However, the time periods, or areas of space, can usually be divided into segments that are sufficiently homogeneous so that analy‐ sis or simulation within those periods is valid.
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:10:00 AM
+
+calls is 0.2 per minute. A key assumption in any simulation study for either the Poisson or exponential distri‐ bution is that the rate, λ, remains constant over the period being considered. This is rarely reasonable in a global sense; for example, traffic on roads or data networks varies by time of day, and day of week
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 86-86 | Added on Thursday, August 1, 2024 11:10:03 AM
+
+A key assumption in any simulation study for either the Poisson or exponential distri‐ bution is that the rate, λ, remains constant over the period being considered. This is rarely reasonable in a global sense; for example, traffic on roads or data networks varies by time of day, and day of week. However, the time periods, or areas of space, can usually be divided into segments that are sufficiently homogeneous so that analy‐ sis or simulation within those periods is valid
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:23:25 AM
+
+This is likely to be the case in mechanical failure - the risk of failure increases as time goes by. The Weibull distribution is an extension of the exponential distribution,
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87 | Added on Thursday, August 1, 2024 11:23:29 AM
+
+Weibull
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:23:50 AM
+
+The Weibull distribution is an extension of the exponential distribution, in which the event rate is allowed to change, as specified by a shape paramenter, β. If βis > 1, the probability of an event increases over time, if βis < 1, it decreases
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:28:20 AM
+
+Because the Wei‐ bull distribution is used with time-to-failure analysis, instead of event rate, the second parameter is expressed in terms of characteristic life, rather than in terms of the rate of events per interval. The symbol used is η, the Greek letter eta. It is also called the scale parameter
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:30:53 AM
+
+For events that occur at a constant rate, the number of events per unit of time or space can be modeled as a Poisson distribution 2. In this scenario, you can also model the time or distance between one event and the next as an exponential distribution 3. A changing event rate over time (e.g. an increasing probability of device failure) can be modeled with the Weibull distribution
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:30:57 AM
+
+. For events that occur at a constant rate, the number of events per unit of time or space can be modeled as a Poisson distribution 2. In this scenario, you can also model the time or distance between one event and the next as an exponential distribution 3. A changing event rate over time (e.g. an
+==========
+Practical Statistics for Data Scientists  
+- Your Highlight on page 87-87 | Added on Thursday, August 1, 2024 11:31:00 AM
+
+1. For events that occur at a constant rate, the number of events per unit of time or space can be modeled as a Poisson distribution 2. In this scenario, you can also model the time or distance between one event and the next as an exponential distribution 3. A changing event rate over time (e.g. an increasing probability of device failure) can be modeled with the Weibull distribution
 ==========

@@ -11,23 +11,27 @@ n=1
 nombre_texto=""
 with open('My Clippings.txt', 'r', encoding='utf-8') as file:
     for linea in file:
-        if n<2273:
+        if n<2743:
             if n%5==1:
                 # print("1-"+linea)
                 if linea not in notas:
                     notas[linea] = [[],[]]
-                    nombre_texto = linea
+                nombre_texto = linea
             if n%5==2:
                 # print("2-"+linea)
                 notas[nombre_texto][1].append(linea)
+                print(nombre_texto+"-"+linea)
             # if n%5==3:
             #     print("3-"+linea)
             if n%5==4:
                 # print("4-"+linea)
                 notas[nombre_texto][0].append(linea)
-            # if n%5==0:
-            #     print("5-"+linea)
-
+                print(nombre_texto+"-"+linea)
+            if n%5==0:
+                if linea.strip()!="==========":
+                    notas[nombre_texto][0][-1]+=linea
+                    print("aqui hay un error: "+str(n))
+                    n=n-1
 
         n=n+1
 
